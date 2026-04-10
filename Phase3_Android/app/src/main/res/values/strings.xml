@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AI Mouse Mobile</string>
+    <string name="accessibility_service_description">AI Virtual Mouse needs this service to perform global clicks and swipes via MediaPipe hand tracking.</string>
+</resources
