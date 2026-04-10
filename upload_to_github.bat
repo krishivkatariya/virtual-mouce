@@ -23,8 +23,8 @@ git remote remove origin 2>nul
 git remote add origin https://github.com/krishivkatariya/virtual-mouce.git
 
 echo.
-echo [+] 📡 Pushing all code to GitHub...
-git push -u origin main
+echo [+] 📡 Pushing all code to GitHub (Overwriting remote mismatch)...
+git push -u origin main --force
 
 echo.
 echo ==========================================================
